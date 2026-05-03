@@ -13,10 +13,3 @@ I enjoy creating practical solutions aligned with real-world needs, prioritizing
 
 💻 LinkedIn: https://www.linkedin.com/in/andrey-ricardo-8a6061210/edit/intro?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BbHaVcNwORFiVjV2SW0qIww%3D%3D
 
-💻 Languages and Tools
-TypeScript JavaScript Python Java PHP Angular Remix Next JS React TailwindCSS NPM PNPM Flask Express.js GraphQLMySQL Keras Matplotlib Pandas scikit-learn NumPy TensorFlow Git Azure Nginx
-
-⌨️ GitHub Stats:
- 
-
-🔝 Top Contributed Repo
